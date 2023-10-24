@@ -1,5 +1,1 @@
-this is user's text file!
-
-this is done for feature!
-
-this is for feature 3 branch!
+this is from feature 3 branch!
