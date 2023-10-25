@@ -1,4 +1,5 @@
 
+
 this is from MyMain
 
 this is from mainBranch
@@ -8,4 +9,9 @@ this is from feature
 this is from feature 3 branch!
 
 this is to check merge
+
+
+this is from feature
+
+this is from feture once again
 
